@@ -1,2 +1,2 @@
 # Join my minecraft Server
-IP: playcwsmp.me
+IP: play.cwsmp.me

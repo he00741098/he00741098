@@ -1,5 +1,2 @@
-
-Website 
--
-https://jessehe.net
+Electrical Engineering @ UIUC
 
